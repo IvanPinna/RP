@@ -1,0 +1,4 @@
+Para desordenar los datos 
+[x,y] = shuffle(x,y);
+
+clear all, close all, clc;
